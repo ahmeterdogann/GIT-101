@@ -3,5 +3,6 @@ public class Sample {
         System.out.println("commit-4");
         System.out.println("commit-5");
         System.out.println("dev commit-1");
+        System.out.println("dev commit-2");
     }
 }
